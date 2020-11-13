@@ -13,6 +13,10 @@ py –m pip install pygame
 -	Understanding the concept of OOP (Object-Oriented-Programming): class, attribute, method,.. etc.
 -	The very basic about Math.
 
+HOW TO USE:
+-	If you want to run the game on your local, you need to clone this repo onto your computer and run the main().py file.
+-	The clone HTTPS is provided, using use these commands to clone the project on your command line (Window 10): Git clone <HTTPS>
+
 CONTACT:
 Email: nhqcse1@gmail.com
 If you get stack with any parts of the project, feel free when contact me. Now, try yourself and have some fun.
