@@ -1,8 +1,7 @@
 """
 Author: @Quang Nguyen
 Email: quang.nguyencse272.hcmut.edu.vn
-Line 56
-Press P to play
+
 """
 import sys
 from time import sleep
@@ -11,7 +10,6 @@ from Settings import Setting
 from Aircarft import Ship
 from Bullet import Bullet
 from Aliens import Alien
-from Raindrop import Rain
 from Game_Stat import Game_Stats
 from Button import button
 from Scoreboard import scoreboard
