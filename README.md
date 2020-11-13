@@ -16,6 +16,7 @@ py –m pip install pygame
 HOW TO USE:
 -	If you want to run the game on your local, you need to clone this repo onto your computer and run the main().py file.
 -	The clone HTTPS is provided, using use these commands to clone the project on your command line (Window 10):
+
 Git clone <HTTPS>
 
 CONTACT:
